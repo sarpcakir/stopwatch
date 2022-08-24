@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(168, 196, 196);
+}
+
+.timerBtn {
+    width: 100px;
+    height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: rgb(5, 5, 114);
+    border: 2px solid white;
+    border-radius: 8px;
+    background-color: rgb(165, 151, 195);
+    cursor: pointer;
+    margin-bottom: 16px;
+    margin-left: 5px;
+}
+
+#timeDisplay {
+    font-size: 100px;
+    color: rgb(7, 7, 120);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 12px;
+}
+
+#timeContainer {
+    text-align: center;
+    margin: auto;
+    border: 3px solid darkblue;
+    border-radius: 18px;
+    background-color: rgb(135, 199, 179);
+    max-width: 550px;
+    margin-top: 40px;
+    padding: 30px 0 30px 0;
+}
